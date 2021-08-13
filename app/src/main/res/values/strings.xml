@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <!--Bottom Navigation Menu-->
+    <string name="main_screen">Ana Sayfa</string>
+    <string name="live">Canlı</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="android">Android</string>
+    <string name="random_text">If you need to display a large number of items (or a list of an unknown length), using a layout such as Column can cause performance issues, since all the items will be composed and laid out whether or not they are visible</string>
+    <string name="random_text_second">Compose provides a set of components which only compose and lay out items which are visible in the component’s viewport. These components include LazyColumn and LazyRow.</string>
+
+</resources>
